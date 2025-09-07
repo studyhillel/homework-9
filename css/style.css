@@ -136,6 +136,7 @@ h6 {
 .section__video {
   background-color: var(--background-main);
   padding-top: 100px;
+  padding-bottom: 100px;
   
 }
 
@@ -168,15 +169,15 @@ h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 100px;
+  /* margin-bottom: 100px; */
   /* margin-top: 304px; */
 }
 
-.section__video__logo {
+/* .section__video__logo {
   margin:  250px 505px 250px 505px;
   background-color: rgb(10, 10, 10);
   
-}
+} */
 
 .footer {
   background-color: var(--accent-color);
