@@ -164,7 +164,7 @@ h6 {
 .section__video__picture {
   width: 1110px;
   height: 600px;
-  background-image: url(/images/Rectangle.jpg);
+  background-image: url(../images/Rectangle.jpg);
   display: flex;
   justify-content: center;
   align-items: center;
